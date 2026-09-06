@@ -22,7 +22,7 @@ cd Fractalator
 go mod tidy
 go run main.go
 ```
-### Credits
+# Credits
 [Ebitengine](https://github.com/hajimehoshi/ebiten/v2)\
 [Opensimplex](https://github.com/ojrac/opensimplex-go)\
 [Debugui](https://github.com/ebitengine/debugui)
